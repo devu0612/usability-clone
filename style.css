@@ -246,6 +246,7 @@ ul {
 }
 .footer-section-gap{
   padding: 50px var(--padding-inline-section) 0;
+  margin-bottom: 2cm;
   justify-content: space-between;
 }
 .footer-section{
@@ -257,12 +258,16 @@ ul {
   border-radius: 5px;
   justify-content: center;
   color: black;
+  padding: 50px var(--padding-inline-section) 0;
 }
 .subfooter p{
   
   color: black;
 }
-
+.tbl1{
+  gap: 20px;
+  flex-direction: column;
+}
 
 
 
