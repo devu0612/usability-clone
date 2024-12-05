@@ -244,17 +244,29 @@ ul {
   padding: 12px 24px;
   background-color: #2294ed;
 }
+.footer-section-gap{
+  padding: 50px var(--padding-inline-section) 0;
+  justify-content: space-between;
+}
 .footer-section{
   background-color:#ebf2fa;
   
 }
-
-
-
-
-
-
-
-.spacer{
-  min-height: 100vh;
+.subfooter{
+  background-color: #7cbff7;
+  border-radius: 5px;
+  justify-content: center;
+  color: black;
 }
+.subfooter p{
+  
+  color: black;
+}
+
+
+
+
+
+
+
+
